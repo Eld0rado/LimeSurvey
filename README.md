@@ -8,7 +8,7 @@
 > 4. créer un questionnaire (avec des questions)
 > 5. l'activer (l'exemple est public, possible sur invitations)
 
-Exemple de *[questionnaire](https://testeur.limesurvey.net/547351)* (des conditions sur bambin), version cloud gratuite utilisée
+## Exemple de *[questionnaire](https://testeur.limesurvey.net/547351)* (des conditions sur bambin), version cloud gratuite utilisée
 
 Dans le dossier à télécharger (CODE -> Download Zip)
 - la base de questionnaire à importer (fichier .lss)
